@@ -4,11 +4,11 @@ void sayHello(String name, String Function(String) filter){
 
 void main(){
 
-  sayHello('Eko Kurniawan Khannedy', (name){
+  sayHello('wardati laili roja', (name){
     return name.toUpperCase();
   });
 
-  sayHello('Eko Kurniawan Khannedy', (name) => name.toLowerCase());
+  sayHello('wardati laili roja', (name) => name.toLowerCase());
 
   var upperFunction = (String name){
     return name.toUpperCase();
