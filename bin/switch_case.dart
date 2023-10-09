@@ -1,15 +1,20 @@
-void main()
-switch (nilai) {
-  case 'A':
-    print('Wow anda lulus dengan baik');
-    break;
-  case 'B'
-  case 'C
-    print('Anda lulus');
-    break
-  case 'D':
-    print('Anda tidak lulus');
-    break;
-  default:
-    print('Mungkin anda salah jurusan');
+void main(){
+  
+  var nilai = 'E';
+  
+  switch(nilai){
+    case 'A':
+      print('Wow Anda Lulus Dengan Baik');
+      break;
+    case 'B':
+    case 'C':
+      print('Anda Lulus');
+      break;
+    case 'D':
+      print('Anda Tidak Lulus');
+      break;
+    default:
+      print('Mungkin Anda Salah Jurusan');
+  }
+  
 }

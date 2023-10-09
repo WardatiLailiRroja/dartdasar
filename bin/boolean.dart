@@ -1,8 +1,9 @@
-void main()
-bool finish = false;
+void main(){
 
-print(finish);
+  bool finish = false;
+  print(finish);
 
-finish = true;
+  finish = true;
+  print(finish);
 
-print(finish);
+}

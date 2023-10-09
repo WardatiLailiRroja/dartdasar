@@ -1,9 +1,11 @@
-void main()
-void sayHello() {
-  print('Hello Word');
+void sayHello(){
+  print('Hello World');
+  print('Hello Lagi');
+  print('Hello Lagi dan lagi');
 }
 
-void main() {
+void main(){
+  sayHello();
   sayHello();
   sayHello();
 }

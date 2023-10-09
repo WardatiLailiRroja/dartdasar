@@ -1,6 +1,13 @@
-void main()
-int number1;
-int number2;
+void main(){
 
-print(number1); // error
-print(number2); // null
+  int number1;
+  number1 = 10;
+  // number1 = null; // error
+
+  int? number2;
+  number2 = null;
+
+  print(number1);
+  print(number2);
+
+}
