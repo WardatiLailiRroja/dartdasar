@@ -16,10 +16,10 @@ void main(){
 
   var lowerFunction = (String name) => name.toLowerCase();
 
-  var result1 = upperFunction('Eko');
+  var result1 = upperFunction('wardati');
   print(result1);
 
-  var result2 = lowerFunction('Eko');
+  var result2 = lowerFunction('wardati');
   print(result2);
 
 }

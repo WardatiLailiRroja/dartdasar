@@ -8,21 +8,21 @@ void main(){
   print(listString);
 
   var names = <String>[
-    'Eko',
-    'Kurniawan',
-    'Khannedy',
+    'wardati',
+    'laili',
+    'roja',
   ];
 
-  // names.add('Eko');
-  // names.add('Kurniawan');
-  // names.add('Khannedy');
+  // names.add('wardati');
+  // names.add('laili');
+  // names.add('roja');
 
   print(names);
   print(names.length);
 
   print(names[0]);
 
-  names[0] = 'Budi';
+  names[0] = 'ocha';
   print(names[0]);
 
   names.removeAt(1);

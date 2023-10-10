@@ -1,5 +1,5 @@
 void main() {
-  var name = 'Eko Kurniawan Khannedy';
+  var name = 'wardati laili roja';
 
   print(name);
 
@@ -9,10 +9,10 @@ void main() {
 
   print(name);
 
-  var firstName = 'Eko';
-  final lastName = 'Khannedy';
+  var firstName = 'wardati';
+  final lastName = 'roja';
 
-  firstName = 'Budi';
+  firstName = 'ocha';
 
   print(firstName);
   print(lastName);
@@ -30,5 +30,5 @@ void main() {
 
 String getValue() {
   print('getValue() dipanggil');
-  return 'Eko  Kurniawan  Khannedy';
+  return 'wardati laili roja';
 }

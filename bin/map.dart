@@ -7,19 +7,19 @@ void main(){
   print(map1);
 
   var name = <String, String>{
-    'first': 'Eko',
-    'middle': 'Kurniawan',
-    'last': 'Khannedy',
+    'first': 'wardati',
+    'middle': 'laili',
+    'last': 'roja',
   };
 
-  // name['first'] = 'Eko';
-  // name['middle'] = 'Kurniawan';
-  // name['last'] = 'Khannedy';
+  // name['first'] = 'wardati';
+  // name['middle'] = 'laili';
+  // name['last'] = 'roja';
 
   print(name);
   print(name['first']);
 
-  name['middle'] = 'Nugraha';
+  name['middle'] = 'ocha';
   print(name);
 
   name.remove('last');

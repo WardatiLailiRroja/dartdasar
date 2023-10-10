@@ -1,6 +1,6 @@
 void main(){
 
-  var first = 10;
+  var first = 20;
   var second = 2;
 
   print(first + second);

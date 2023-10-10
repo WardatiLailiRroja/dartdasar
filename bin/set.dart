@@ -7,11 +7,11 @@ void main(){
   print(numbers);
 
   var names = <String>{
-    'Eko',
-    'Eko',
-    'Kurniawan',
-    'Kurniawan',
-    'Khannedy',
+    'wardati',
+    'wardati',
+    'laili',
+    'laili',
+    'roja',
   };
 
   // names.add('Eko');

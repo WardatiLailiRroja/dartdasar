@@ -1,7 +1,7 @@
 void sayHello(){
   print('Hello World');
   print('Hello Lagi');
-  print('Hello Lagi dan lagi');
+  print('selamat pagi dan pagi');
 }
 
 void main(){

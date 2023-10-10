@@ -4,14 +4,14 @@ void sayHello(String name, String Function(String) filter) {
 }
 
 String filterBadWord(String name) {
-  if (name == "cina") {
-    return "****";
+  if (name == "wardati") {
+    return "******";
   } else {
     return name;
   }
 }
 
 void main(){
-  sayHello('cia', filterBadWord);
-  sayHello('cina', filterBadWord);
+  sayHello('ocha', filterBadWord);
+  sayHello('Wardati', filterBadWord);
 }
